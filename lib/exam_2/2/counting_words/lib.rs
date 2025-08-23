@@ -1,0 +1,1 @@
+fn counting_words(words: &str) -> HashMap<String, u32> {}
